@@ -173,8 +173,7 @@ Jugador 2: T
 Resultado: Jugador 2 traiciona → gana 5 puntos
 Ejemplo 2 – Juego de coordinación (Stag Hunt)
 
-
-## El Stag Hunt o juego de caza del ciervo es un modelo de coordinación donde los jugadores pueden cooperar para obtener una mayor recompensa o elegir una opción segura con menor beneficio.
+El Stag Hunt o juego de caza del ciervo es un modelo de coordinación donde los jugadores pueden cooperar para obtener una mayor recompensa o elegir una opción segura con menor beneficio.
 
 En este ejemplo los jugadores pueden elegir entre:
 Cazar Ciervo (C) → mayor recompensa si ambos cooperan
